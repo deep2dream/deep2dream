@@ -16,7 +16,7 @@
  ### ⚡️ State
 
 - :sweat_smile: *Designing, implementing, testing, analyzing, and optimizing.*
-- 🧐 *frequently updating myself on web development.* -->
+- 🧐 *frequently updating myself on web development.*
 - 🤔 *I’m looking for help with L1 & L2 technologies .*
 - 💬 *Ping me about blockchain and web stuff.*
 
