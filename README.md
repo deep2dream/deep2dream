@@ -1,8 +1,9 @@
 ## Hi 👋
 
 *I'm a Full Stack Web Developer.*
-*I love working with javascript because it's easy, simple and everywhere. A single language for frontend and backend.*
-*I love python. It's very useful for automation, simulation, and problem-solving. It gives me insight on how functions should be designed and implemented as well as how they actually work.*
+
+- *I love working with javascript because it's easy, simple and everywhere. A single language for frontend and backend.*
+- *I love python. It's very useful for automation, simulation, and problem-solving. It gives me insight on how functions should be designed and implemented as well as how they actually work.*
 - *I love golang because of its high productivity and sophistication in system programming. I started to learn it thanks to blockchain and found out that it's concurrency is very special.*
 - *I like rust. It's pretty hard to learn, but very powerful in parallelism. As of now, Rust could be the best chice for acceleration and optimization in modern hardware architecture except C/C++.*
 *I enjoy to challenge against hackathons and hackerrank problems every weekend and really love to share what I learned with everybody.*
